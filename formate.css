@@ -1,0 +1,104 @@
+body {
+	background-color: #74D2C5;
+	font-size: 25px;
+}
+
+h1 { 
+	text-align: center; 
+	font-family: Impact;
+	font-family: Cooper Black
+}
+
+ul {
+	color: #FD99F2;
+}
+a {
+	text-decoration: none;
+	color: #00FF14;
+}
+
+p {
+	color: #4DE688;
+}
+
+@media screen and (max-width:1200px){
+	html{font-size:30px}
+	h1{text-decoration: underline;}
+}
+@media screen and (max-width:800px){
+	html{font-size:40px}
+	h1{text-decoration: none;}
+	body{color: #6BDC00; background-color: #44F21A}
+	p{color: black;}
+	#Box1 {
+	border: 5px solid #FFFFFF;
+	float: left;
+	clear: bottom;
+	padding: 10px;
+	width: 96.5%;
+	margin: 10px;
+}
+	#Box2 {
+	border: 5px solid #FFFF00;
+	float: right;
+	clear: right;
+	padding: 20px;
+	width: 25%;
+	margin: 20px;
+}
+	#Box3 {
+	border: 5px solid #04231A;
+	float: right;
+	clear: left;
+	padding: 20px;
+	width: 25%;
+	margin: 20px;
+}
+	
+
+}
+
+#Box1 {
+	border: 5px solid #FFFFFF;
+	float: left;
+	clear: bottom;
+	padding: 20px;
+	width: 96.5%;
+	margin: 20px;
+}
+
+#Box2 {
+	border: 5px solid #FFFF00;
+	float: right;
+	clear: right;
+	padding: 20px;
+	width: 25%;
+	margin: 20px;
+}
+
+#Box3 {
+	border: 5px solid #04231A;
+	float: right;
+	clear: left;
+	padding: 20px;
+	width: 25%;
+	margin: 20px;
+}
+
+#Box4 {
+	border: 5px solid #04231A;
+	float: right;
+	clear: left;
+	padding: 20px;
+	width: 25%;
+	margin: 20px;
+}
+
+#Box5 {
+	border: 5px solid #FFFFFF;
+	float: left;
+	clear: bottom;
+	padding: 20px;
+	width: 96.5%;
+	margin: 20px;
+}	
